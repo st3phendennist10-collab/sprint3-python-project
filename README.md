@@ -5,7 +5,7 @@ This project contains aggregate data concerning the video game industry and its 
 ## Data Source
 Adapted from VGChartz (public domain estimates).
 
-## Method and Tootls
+## Method and Tools
 Python
 
 ## Key Findings
